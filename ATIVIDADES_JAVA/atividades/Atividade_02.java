@@ -4,7 +4,7 @@
 * são: Igual, Não igual, Maior, Menor, Maior ou igual, Menor ou igual.
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Scanner;
 

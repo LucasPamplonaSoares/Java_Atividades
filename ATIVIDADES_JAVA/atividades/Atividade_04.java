@@ -5,7 +5,7 @@
 *   x * (-1) se x é menor que zero
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Scanner;
 

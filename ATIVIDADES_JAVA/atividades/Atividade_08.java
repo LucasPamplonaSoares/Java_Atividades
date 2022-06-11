@@ -4,7 +4,7 @@
 * iguais, o programa deve exibir mensagem informando este fato.
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Scanner;
 

@@ -6,7 +6,7 @@
 * será escaleno. Caso os lados fornecidos não caracterizarem um triângulo, avisar a ocorrência.
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Scanner;
 

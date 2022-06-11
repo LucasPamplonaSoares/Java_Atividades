@@ -3,7 +3,7 @@
 * maior para o menor.
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Scanner;
 

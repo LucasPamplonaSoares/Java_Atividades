@@ -9,7 +9,7 @@
 * da média do aluno.
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Scanner;
 

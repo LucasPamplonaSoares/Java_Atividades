@@ -3,7 +3,7 @@
 * valores em ordem decrescente.
 *******************************************************************************/
 
-package ATIVIDADES_JAVA;
+package atividades;
 
 import java.util.Arrays;
 import java.util.Scanner;
